@@ -5,3 +5,7 @@
          '=.|m|.='      Credentials Collectors     '=.|m|.='  
          .='`"``=.                                 .='`"``=.
 
+
+
+
+*these are purely fictitious credentials in the scope of a training campaign
