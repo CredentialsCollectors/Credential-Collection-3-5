@@ -1,4 +1,4 @@
-# Credential Collection#3-5 - Find stolen user credentials here
+# Collection#3-5 - Find stolen user credentials here
 
             .-.                                       .-.
            (0.0)                                     (0.0)
